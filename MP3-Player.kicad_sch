@@ -1997,6 +1997,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 114.3) (xy 66.04 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2330d82c-da88-435d-afe3-f0b1102a91bf")
+	)
+	(wire
+		(pts
 			(xy 121.92 120.65) (xy 119.38 120.65)
 		)
 		(stroke
@@ -2184,16 +2194,6 @@
 			(type default)
 		)
 		(uuid "87ad7283-279f-47ef-bd59-b93f8e7bceec")
-	)
-	(wire
-		(pts
-			(xy 66.04 111.76) (xy 73.66 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "898f2108-491b-4dae-bd24-4b53a7232517")
 	)
 	(wire
 		(pts
@@ -2466,7 +2466,7 @@
 		(uuid "449bcb4a-c5ae-4034-b0cf-483356e1fe2d")
 	)
 	(label "RX"
-		(at 66.04 111.76 0)
+		(at 66.04 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2767,7 +2767,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 111.76 90)
+		(at 77.47 114.3 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2778,16 +2778,6 @@
 		(fields_autoplaced yes)
 		(uuid "5ddaf943-ce26-4ff4-8d7d-b92c7bf115d9")
 		(property "Reference" "R1"
-			(at 77.47 105.41 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1kΩ"
 			(at 77.47 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2797,8 +2787,18 @@
 				)
 			)
 		)
+		(property "Value" "1kΩ"
+			(at 77.47 110.49 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 77.47 113.538 90)
+			(at 77.47 116.078 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2809,7 +2809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 111.76 0)
+			(at 77.47 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2820,7 +2820,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 111.76 0)
+			(at 77.47 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal"
 			(at 156.21 146.05 0)
 			(hide yes)
 			(show_name no)

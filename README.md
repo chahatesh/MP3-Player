@@ -90,6 +90,8 @@ The files are available in both STL and STEP formats:
 
 The STL files can be used for 3D printing, while the STEP files can be edited in CAD software.
 
+I used Onshape for this, link [Here](https://cad.onshape.com/documents/7a1423e237ed7c255f250c8c/w/72b5ca8bb9bfd8214d66d290/e/8e44508844e352792cba2dbb?renderMode=0&uiState=6ae691a64f304a127a6a8070)
+
 ## Building Your Own
 
 ### 1. Order the PCB

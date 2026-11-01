@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/mk2nek2vyih69wkxtrpd2c2u)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> And a small MP3 player that fits in your pocket with a battery and a way to charge it. You can listen to all of your favorite artists with a rotary encoder and a little display showing it all with the headphone jack.
+> And a small MP3 player that fits in your pocket with a battery and a way to charge it. You can listen to all of your favorite artists with a rotary encoder and a little display showing it all with the headphone jack. Onshape Link Here - https://cad.onshape.com/documents/7a1423e237ed7c255f250c8c/w/72b5ca8bb9bfd8214d66d290/e/8e44508844e352792cba2dbb?renderMode=0&uiState=6ae691a64f304a127a6a8070
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
